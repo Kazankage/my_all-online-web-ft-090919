@@ -8,4 +8,4 @@ def my_all?(collection)
   end
 end
 
-def my_all([1,2,3]) {|i| i < 2 }
+def my_all?([1,2,3]) {|i| i < 2 }
